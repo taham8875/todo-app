@@ -94,7 +94,7 @@ So the following features/improvements/weak points are not implemented yet:
 
 - [ ] Password strength indicator : The password should be at least 8 characters long and contain at least one uppercase letter, one lowercase letter, one number and one special character.
 - [ ] The user should be able to change the password if he/she forgets it. This also requires to get the user's email address.
-- [ ] Incremental counters, don't use incremental ids for the todo items, for example, a todo competetor company can easily guess the number of todos you have created so far. Use UUIDs instead.
+- [ ] Incremental counters, don't use incremental ids for the todo items, for example, a todo competitor company can easily guess the number of todos you have created so far. Use UUIDs instead.
 - [ ] The user should be able to change the order of the todo items. May be some todo items are more important than others.
 - [ ] `PUT` works fine, `PATCH` doesn't.
 - [ ] Commenting, controversially developers should not comment their code, comments should describe why, not what. And the code should be self-explanatory. Watch : https://youtu.be/Bf7vDBBOBUA
